@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.271c0ac3.css",
+    "main.js": "/react-gh-pages/static/js/main.f53d0e24.js",
+    "static/js/787.b0090f8a.chunk.js": "/react-gh-pages/static/js/787.b0090f8a.chunk.js",
+    "static/media/overall.png": "/react-gh-pages/static/media/overall.bd2030f575306fb02a74.png",
+    "static/media/Logo.png": "/react-gh-pages/static/media/Logo.ac7c696027f9cfd73702.png",
+    "static/media/Settings.svg": "/react-gh-pages/static/media/Settings.0a3175d4ff455ae5caf1538a36309e54.svg",
+    "static/media/Switch.png": "/react-gh-pages/static/media/Switch.ccc6cfab9e7786dad730.png",
+    "static/media/footer.png": "/react-gh-pages/static/media/footer.47f28cd6eac6d7a74d97.png",
+    "static/media/Printer.png": "/react-gh-pages/static/media/Printer.f99b5aef9897c20985eb.png",
+    "static/media/APNew.svg": "/react-gh-pages/static/media/APNew.11c150011359e59cf411960d2851d20d.svg",
+    "static/media/AccessPoint.svg": "/react-gh-pages/static/media/AccessPoint.723162a78876eed99d2c0c7618eb964c.svg",
+    "static/media/AllApps.svg": "/react-gh-pages/static/media/AllApps.d49e9ed7b3c2745b7850462c2d364db0.svg",
+    "static/media/app.svg": "/react-gh-pages/static/media/app.7811234de0d0a54f1cb57dc4e45bc318.svg",
+    "static/media/AllDepots.svg": "/react-gh-pages/static/media/AllDepots.18c87392b12f87a57d13e92283b88cad.svg",
+    "static/media/AllPrinter.svg": "/react-gh-pages/static/media/AllPrinter.f1c1cbb0ace2e1df44370143f6113b0d.svg",
+    "static/media/wireless-controller.svg": "/react-gh-pages/static/media/wireless-controller.6cbac6d09aedd966a2f3390c1bdecabd.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/Refresh.svg": "/react-gh-pages/static/media/Refresh.9fdced3007de7b9fb526cf8fae772284.svg",
+    "main.271c0ac3.css.map": "/react-gh-pages/static/css/main.271c0ac3.css.map",
+    "main.f53d0e24.js.map": "/react-gh-pages/static/js/main.f53d0e24.js.map",
+    "787.b0090f8a.chunk.js.map": "/react-gh-pages/static/js/787.b0090f8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.271c0ac3.css",
+    "static/js/main.f53d0e24.js"
+  ]
+}
